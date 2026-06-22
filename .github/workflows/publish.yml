@@ -1,0 +1,27 @@
+on:
+  push:
+    branches: main
+
+name: Render and Publish
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render site
+        run: quarto render
+
+      - name: Commit rendered docs
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Render Quarto site
+          file_pattern: docs/*
