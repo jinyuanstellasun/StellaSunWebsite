@@ -9,9 +9,8 @@ project:
 #author-meta: "Dr. Gang He"
 
 website:
-  #title: "Quarto Academic"
- # image: "https://quarto.org/quarto.png"
-  description: "Stella Sun"
+  title: "Jinyuan Stella Sun"
+  description: "Jinyuan Stella Sun"
  
   navbar:
     background: dark  # You can change the background color here
