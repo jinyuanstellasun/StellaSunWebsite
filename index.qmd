@@ -74,15 +74,4 @@ I can automatically generate a neat publication list from an Excel file and enab
 
 Check [Quarto Academic Website Examples and Tips](https://drganghe.github.io/quarto-academic-site-examples.html) and [README.md](https://github.com/drganghe/quarto-academic-website-template/blob/main/README.md) for more detailed instructions.
 
-# Experience
-
-#- Researcher, Univerisity
-#- Consultant, Company
-#- Intern, Institute
-
-# Education
-
-#- PhD, Univerisity
-#- Master, Univerisity
-#- Bachelor, Univerisity
 
