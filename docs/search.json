@@ -109,28 +109,42 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "A broad introduction to cybersecurity concepts. The class will introduce basic topics core to understanding computer security including security goals, threat modeling, software security, operating system security, cryptography, network security, and human factors. Coursework focuses on helping students adapt a security aware mindset when designing, developing, and testing systems.\n\n:::"
+    "text": "A broad introduction to cybersecurity concepts. The class will introduce basic topics core to understanding computer security including security goals, threat modeling, software security, operating system security, cryptography, network security, and human factors. Coursework focuses on helping students adapt a security aware mindset when designing, developing, and testing systems."
   },
   {
     "objectID": "teaching.html#cosc-366---introduction-to-cybersecurity",
     "href": "teaching.html#cosc-366---introduction-to-cybersecurity",
     "title": "Teaching",
     "section": "",
-    "text": "A broad introduction to cybersecurity concepts. The class will introduce basic topics core to understanding computer security including security goals, threat modeling, software security, operating system security, cryptography, network security, and human factors. Coursework focuses on helping students adapt a security aware mindset when designing, developing, and testing systems.\n\n:::"
+    "text": "A broad introduction to cybersecurity concepts. The class will introduce basic topics core to understanding computer security including security goals, threat modeling, software security, operating system security, cryptography, network security, and human factors. Coursework focuses on helping students adapt a security aware mindset when designing, developing, and testing systems."
   },
   {
     "objectID": "teaching.html#cosc-434534---network-security",
     "href": "teaching.html#cosc-434534---network-security",
     "title": "Teaching",
     "section": "COSC 434/534 - Network Security",
-    "text": "COSC 434/534 - Network Security\n\nIn-depth introduction to core Internet and wireless technologies, related security concerns, common security vulnerabilities, and good security practices. Hands-on experience exploiting network protocols and communications, and setting up secure network connections.\n\n:::"
+    "text": "COSC 434/534 - Network Security\n\n\n\n\nIn-depth introduction to core Internet and wireless technologies, related security concerns, common security vulnerabilities, and good security practices. Hands-on experience exploiting network protocols and communications, and setting up secure network connections."
   },
   {
-    "objectID": "teaching.html#class-3",
-    "href": "teaching.html#class-3",
+    "objectID": "teaching.html#ece-453553---introduction-to-computer-networks",
+    "href": "teaching.html#ece-453553---introduction-to-computer-networks",
     "title": "Teaching",
-    "section": "Class 3",
-    "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
+    "section": "ECE 453/553 - Introduction to Computer Networks",
+    "text": "ECE 453/553 - Introduction to Computer Networks\n\n\n\n\nIntroduction to the design and implementation of computer networks. Topics to be covered include layered network architecture, physical media, data link protocols, network routing, transport layer, network programming interfaces such as sockets, and applications. Examples will be primarily based on protocols in the Internet."
+  },
+  {
+    "objectID": "teaching.html#cosc-230---computer-organization",
+    "href": "teaching.html#cosc-230---computer-organization",
+    "title": "Teaching",
+    "section": "COSC 230 - Computer Organization",
+    "text": "COSC 230 - Computer Organization\n\n\n\n\nGate level logic, binary number representation and arithmetic, data path and memory hierarchy with focus on code impact, parallel computing, instruction set architecture."
+  },
+  {
+    "objectID": "teaching.html#ece-255---introduction-to-logic-design-of-digital-systems",
+    "href": "teaching.html#ece-255---introduction-to-logic-design-of-digital-systems",
+    "title": "Teaching",
+    "section": "ECE 255 - Introduction to Logic Design of Digital Systems",
+    "text": "ECE 255 - Introduction to Logic Design of Digital Systems\n\n\n\n\nStandard codes, number systems, base conversions, and computer arithmetic. Boolean algebra, minimization and synthesis techniques for combinational and sequential logic. Use of VHDL for logic synthesis. Implementation of circuits using SSI, MSI, and LSI components. Includes Level 1 design projects which require laboratory work."
   },
   {
     "objectID": "index.html",
