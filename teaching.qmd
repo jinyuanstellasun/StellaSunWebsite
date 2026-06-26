@@ -9,13 +9,11 @@ title-block-banner: false
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-# ![](files/images/placeholder1.jpg)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-# [Fall 2024](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
 
 A broad introduction to cybersecurity concepts. The class will introduce basic topics core to understanding computer security including security goals, threat modeling, software security, operating system security, cryptography, network security, and human factors. Coursework focuses on helping students adapt a security aware mindset when designing, developing, and testing systems.
 
