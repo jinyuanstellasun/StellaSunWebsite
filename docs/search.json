@@ -105,6 +105,20 @@
     "text": "About the news"
   },
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "A broad introduction to cybersecurity concepts. The class will introduce basic topics core to understanding computer security including security goals, threat modeling, software security, operating system security, cryptography, network security, and human factors. Coursework focuses on helping students adapt a security aware mindset when designing, developing, and testing systems."
+  },
+  {
+    "objectID": "teaching.html#cosc-366-introduction-to-cybersecurity",
+    "href": "teaching.html#cosc-366-introduction-to-cybersecurity",
+    "title": "Teaching",
+    "section": "",
+    "text": "A broad introduction to cybersecurity concepts. The class will introduce basic topics core to understanding computer security including security goals, threat modeling, software security, operating system security, cryptography, network security, and human factors. Coursework focuses on helping students adapt a security aware mindset when designing, developing, and testing systems."
+  },
+  {
     "objectID": "teaching.html#class-2",
     "href": "teaching.html#class-2",
     "title": "Teaching",
