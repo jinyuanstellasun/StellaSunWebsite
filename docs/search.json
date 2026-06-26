@@ -126,18 +126,18 @@
     "text": "COSC 434/534 - Network Security\n\n\n\n\nIn-depth introduction to core Internet and wireless technologies, related security concerns, common security vulnerabilities, and good security practices. Hands-on experience exploiting network protocols and communications, and setting up secure network connections."
   },
   {
-    "objectID": "teaching.html#ece-453553---introduction-to-computer-networks",
-    "href": "teaching.html#ece-453553---introduction-to-computer-networks",
-    "title": "Teaching",
-    "section": "ECE 453/553 - Introduction to Computer Networks",
-    "text": "ECE 453/553 - Introduction to Computer Networks\n\n\n\n\nIntroduction to the design and implementation of computer networks. Topics to be covered include layered network architecture, physical media, data link protocols, network routing, transport layer, network programming interfaces such as sockets, and applications. Examples will be primarily based on protocols in the Internet."
-  },
-  {
     "objectID": "teaching.html#cosc-230---computer-organization",
     "href": "teaching.html#cosc-230---computer-organization",
     "title": "Teaching",
     "section": "COSC 230 - Computer Organization",
     "text": "COSC 230 - Computer Organization\n\n\n\n\nGate level logic, binary number representation and arithmetic, data path and memory hierarchy with focus on code impact, parallel computing, instruction set architecture."
+  },
+  {
+    "objectID": "teaching.html#ece-453553---introduction-to-computer-networks",
+    "href": "teaching.html#ece-453553---introduction-to-computer-networks",
+    "title": "Teaching",
+    "section": "ECE 453/553 - Introduction to Computer Networks",
+    "text": "ECE 453/553 - Introduction to Computer Networks\n\n\n\n\nIntroduction to the design and implementation of computer networks. Topics to be covered include layered network architecture, physical media, data link protocols, network routing, transport layer, network programming interfaces such as sockets, and applications. Examples will be primarily based on protocols in the Internet."
   },
   {
     "objectID": "teaching.html#ece-255---introduction-to-logic-design-of-digital-systems",
