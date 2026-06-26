@@ -4,15 +4,9 @@ title-block-banner: false
 ---
 
 
-## COSC 366 Introduction to Cybersecurity
+## COSC 366 - Introduction to Cybersecurity
 
 ::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-
-:::
-
-::: {.g-col-12 .g-col-md-10}
 
 
 A broad introduction to cybersecurity concepts. The class will introduce basic topics core to understanding computer security including security goals, threat modeling, software security, operating system security, cryptography, network security, and human factors. Coursework focuses on helping students adapt a security aware mindset when designing, developing, and testing systems.
@@ -22,20 +16,12 @@ A broad introduction to cybersecurity concepts. The class will introduce basic t
 :::
 
 
-## Class 2
+## COSC 434/534 - Network Security
 
 ::: {.grid}
 
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder2.JPG)
 
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-[Spring 2025](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
-
-Class 2 introduction.
+In-depth introduction to core Internet and wireless technologies, related security concerns, common security vulnerabilities, and good security practices. Hands-on experience exploiting network protocols and communications, and setting up secure network connections.
 
 :::
 
