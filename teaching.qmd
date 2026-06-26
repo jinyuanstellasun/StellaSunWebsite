@@ -16,38 +16,57 @@ A broad introduction to cybersecurity concepts. The class will introduce basic t
 
 :::
 
-:::
-
 
 ## COSC 434/534 - Network Security
 
 ::: {.grid}
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
 
 
 In-depth introduction to core Internet and wireless technologies, related security concerns, common security vulnerabilities, and good security practices. Hands-on experience exploiting network protocols and communications, and setting up secure network connections.
 
 :::
 
-:::
 
-
-## Class 3
+## ECE 453/553 - Introduction to Computer Networks
 
 ::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder3.JPG)
 
 :::
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Spring 2025](https://www.google.com), &nbsp; [Spring 2024](https://www.google.com)
-
-Class 3 introduction. 
+Introduction to the design and implementation of computer networks. Topics to be covered include layered network architecture, physical media, data link protocols, network routing, transport layer, network programming interfaces such as sockets, and applications. Examples will be primarily based on protocols in the Internet.
 
 :::
 
+## COSC 230 - Computer Organization
+
+::: {.grid}
+
 :::
+
+::: {.g-col-12 .g-col-md-10}
+
+Gate level logic, binary number representation and arithmetic, data path and memory hierarchy with focus on code impact, parallel computing, instruction set architecture.
+
+:::
+
+
+## ECE 255 - Introduction to Logic Design of Digital Systems
+
+::: {.grid}
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+Standard codes, number systems, base conversions, and computer arithmetic. Boolean algebra, minimization and synthesis techniques for combinational and sequential logic. Use of VHDL for logic synthesis. Implementation of circuits using SSI, MSI, and LSI components. Includes Level 1 design projects which require laboratory work.
+
+:::
+
 
 
