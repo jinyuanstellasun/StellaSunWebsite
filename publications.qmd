@@ -1,6 +1,7 @@
 ---
 title: "Publications"
 bibliography: references.bib
+csl: publications.csl
 nocite: '@*'
 #description-meta: "Information, pdfs, and social metrics of papers"
 #page-layout: full
