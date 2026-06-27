@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-subtitle: "I'm currently teaching"
+subtitle: "Course taught in recent years"
 title-block-banner: false
 toc: false
 ---
