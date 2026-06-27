@@ -4,7 +4,7 @@ bibliography: references.bib
 csl: publications.csl
 nocite: '@*'
 #description-meta: "Information, pdfs, and social metrics of papers"
-#page-layout: full
+#page-layout: full 
 #back-to-top-navigation: true
 title-block-banner: false
 css: custom.css 
