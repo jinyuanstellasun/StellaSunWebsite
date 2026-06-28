@@ -12,17 +12,27 @@ span.__dimensions_badge_embed__, div.altmetric-embed {
     margin-bottom: 1.5rem !important;
 }
 
-.sponsor-logos {
-    width: 100vw;
-    margin-left: calc(50% - 50vw);
+/* Sponsor logos: force a wide single row with visible gaps */
+main#quarto-document-content .sponsor-logos {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
 
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 12rem; 
+  width: 1400px !important;
+  max-width: none !important;
+  gap: 120px !important;
+
+  margin-top: 3rem !important;
+  margin-bottom: 3rem !important;
+  padding: 0 !important;
 }
 
-.sponsor-logos img {
-    height: 90px;
-    width: auto;
+main#quarto-document-content .sponsor-logos img {
+  max-height: 90px !important;
+  max-width: 180px !important;
+  width: auto !important;
+  height: auto !important;
+  object-fit: contain !important;
+  flex: 0 0 auto !important;
 }
