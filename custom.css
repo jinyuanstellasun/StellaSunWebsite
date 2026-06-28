@@ -13,20 +13,19 @@ span.__dimensions_badge_embed__, div.altmetric-embed {
 }
 
 .sponsor-logos {
-  width: 100% !important;
-  max-width: none !important;
-  margin: 3rem 0 !important;
-}
-
-.sponsor-logos p {
   display: flex !important;
-  flex-direction: row !important;
   align-items: center !important;
   justify-content: flex-start !important;
-  gap: 200px !important;
-  margin: 0 !important;
-  padding: 0 !important;
+  gap: 180px !important;
+  margin: 3rem 0 !important;
+  width: 1400px !important;
   max-width: none !important;
+}
+
+.sponsor-logos span {
+  display: inline-flex !important;
+  align-items: center !important;
+  flex: 0 0 auto !important;
 }
 
 .sponsor-logos img {
@@ -35,5 +34,4 @@ span.__dimensions_badge_embed__, div.altmetric-embed {
   width: auto !important;
   height: auto !important;
   object-fit: contain !important;
-  flex-shrink: 0 !important;
 }
