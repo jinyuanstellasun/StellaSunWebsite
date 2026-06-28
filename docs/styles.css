@@ -6,7 +6,7 @@
 /* Move regular page content to the left */
 body:not(.floating) main#quarto-document-content {
   grid-column: screen-start / screen-end !important;
-  max-width: 1150px !important;
+  max-width: 1000px !important;
   margin-left: 12rem !important;
   margin-right: auto !important;
 }
