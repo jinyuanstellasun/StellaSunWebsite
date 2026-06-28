@@ -75,15 +75,15 @@
   </macro>
 
   <macro name="access">
-    <choose>
-      <if variable="DOI">
-        <text variable="DOI" prefix="doi: https://doi.org/"/>
-      </if>
-      <else-if variable="URL">
-        <text variable="URL"/>
-      </else-if>
-    </choose>
-  </macro>
+  <choose>
+    <if variable="URL">
+      <text variable="URL"/>
+    </if>
+    <else-if variable="DOI">
+      <text variable="DOI" prefix="https://doi.org/"/>
+    </else-if>
+  </choose>
+</macro>
 
   <citation collapse="citation-number">
     <sort>
