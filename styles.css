@@ -3,12 +3,17 @@
     font-size: 1.5rem !important;
 } 
 
-.page-layout-full {
-    max-width: 1400px !important;
-    margin-left: 40px !important;
-    margin-right: auto !important;
+main.content {
+  max-width: 1200px !important;
+  margin-left: 2rem !important;
+  margin-right: auto !important;
 }
 
-#quarto-document-content {
-    max-width: none !important;
+#quarto-content {
+  justify-content: flex-start !important;
+}
+
+.column-page {
+  max-width: 1200px !important;
+  margin-left: 0 !important;
 }
