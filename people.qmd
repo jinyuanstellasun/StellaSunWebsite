@@ -10,7 +10,7 @@ listing:
   type: grid
   fields: [image, title, subtitle]
   grid-item-align: center
-  grid-columns: 4
+  grid-columns: 1
   image-height: 200px
   categories: false
   contents:
