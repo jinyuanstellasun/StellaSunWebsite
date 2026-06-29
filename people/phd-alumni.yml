@@ -1,10 +1,49 @@
-    - path: https://drganghe.github.io/quarto-academic-website-template
-      image: "/files/profiles/profile2.JPG"
-      title: "Alumni A"
-      lastname: "A"
-#      author: 
-      subtitle: "PhD Alumni"
-#      date: "2024-03-12"
-      categories: [PhD Student] 
-      started: "2022-01"
-      ended: "2026-01"
+- title: "Yingyuan Yang"
+  subtitle: "Ph.D., Assistant Professor"
+  image: "files/images/yin.jpg"
+  path: "https://uisacad5.uis.edu/~yyang260/default.html"
+
+- title: "Jiangnan Li"
+  subtitle: "Ph.D., Security Researcher"
+  image: "files/images/jiangnan.jpg"
+  path: "https://jiangnan3.github.io/"
+
+- title: "Xiangyu Niu"
+  subtitle: "Ph.D., Software Engineer"
+  image: "files/images/niu.jpg"
+  path: "https://www.linkedin.com/in/xiangyuniu/"
+
+- title: "Zhuo "Cindy" Yao"
+  subtitle: "Ph.D., Senior Software Engineer"
+  image: "files/images/cindy.jpg"
+  path: "https://www.linkedin.com/in/cindy1818/"
+
+- title: "Aaron "Tong" Yue"
+  subtitle: "Ph.D., Software Engineering Manager"
+  image: "files/images/yue.jpg"
+  path: "https://www.linkedin.com/in/ytong1/"
+
+- title: "Lingyun Ren"
+  subtitle: "Ph.D., Senior Radio Frequency Engineer"
+  image: "files/images/lingyun.jpg"
+  path: "https://www.linkedin.com/in/lingyunren/"
+
+- title: "Joey Allen"
+  subtitle: "M.S., Senior Security Engineer"
+  image: "files/images/joey.jpg"
+  path: "https://www.linkedin.com/in/jallen89/"
+
+- title: "Jordan Dayton"
+  subtitle: "M.S., Senior Software Engineer"
+  image: "files/images/jordan.jpg"
+  path: "https://www.linkedin.com/in/jdeyton/"
+
+- title: "Tasneem Halim"
+  subtitle: "M.S., AP Computer Science Instructor"
+  image: "files/images/tasneem.jpg"
+  path: "https://www.fremontstem.org/tasneem-halim"
+
+- title: "Clayton Davis"
+  subtitle: "M.S., Principal Software Engineer"
+  image: "files/images/clayton.jpg"
+  path: "https://www.linkedin.com/in/claytond/"
