@@ -1,6 +1,6 @@
 ---
-#title: ""
-#title-block: false
+title: "People"
+title-block: false
 page-layout: full
 page-navigation: false
 toc: false
