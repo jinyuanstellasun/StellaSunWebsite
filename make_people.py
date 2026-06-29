@@ -1,46 +1,39 @@
 from pathlib import Path
 import shutil
-import yaml
 import re
+import yaml
 
-ROOT = Path(__file__).resolve().parents[1]
-
+ROOT = Path.cwd()
 SOURCE = ROOT / "people"
 OUTPUT = SOURCE / "generated"
 
-FILES = [
-    "faculty",
-    "students",
-    "alumni",
-]
+GROUPS = ["faculty", "students", "alumni"]
 
-
-def slug(name):
-    return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
-
+def slugify(text):
+    return re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
 
 if OUTPUT.exists():
     shutil.rmtree(OUTPUT)
 
-OUTPUT.mkdir(parents=True)
+for group in GROUPS:
+    source_file = SOURCE / f"{group}.yml"
 
-for group in FILES:
+    if not source_file.exists():
+        raise FileNotFoundError(f"Missing file: {source_file}")
 
-    people = yaml.safe_load((SOURCE / f"{group}.yml").read_text())
+    people = yaml.safe_load(source_file.read_text(encoding="utf-8"))
+
+    if not isinstance(people, list):
+        people = [people]
 
     out_dir = OUTPUT / group
-    out_dir.mkdir(parents=True)
+    out_dir.mkdir(parents=True, exist_ok=True)
 
     for person in people:
+        filename = slugify(person["title"]) + ".yml"
+        out_file = out_dir / filename
 
-        filename = slug(person["title"]) + ".yml"
+        with out_file.open("w", encoding="utf-8") as f:
+            yaml.safe_dump(person, f, sort_keys=False, allow_unicode=True)
 
-        with open(out_dir / filename, "w") as f:
-            yaml.safe_dump(
-                person,
-                f,
-                sort_keys=False,
-                allow_unicode=True,
-            )
-
-print("Generated people listing.")
+print("Generated people files.")
