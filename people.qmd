@@ -1,6 +1,6 @@
 ---
-title: ""
-title-block: false
+#title: ""
+#title-block: false
 page-layout: full
 page-navigation: false
 toc: false
@@ -14,7 +14,7 @@ listing:
   image-height: 200px
   categories: false
   contents:
-    - /people/faculty.yml
+    - /people/generated/faculty/*.yml
 
 - id: students
   type: grid
@@ -24,7 +24,7 @@ listing:
   image-height: 200px
   categories: false
   contents:
-    - /people/students.yml
+    - /people/generated/students/*.yml
 
 - id: alumni
   type: grid
@@ -34,7 +34,7 @@ listing:
   image-height: 200px
   categories: false
   contents:
-    - /people/alumni.yml
+    - /people/generated/alumni/*.yml
 
 format:
   html:
