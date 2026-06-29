@@ -22,5 +22,5 @@ main#quarto-document-content .csl-entry {
 .quarto-grid-item .card-img-top {
   height: 260px !important;
   object-fit: cover !important;
-  object-position: center 15% !important;
+  object-position: center top !important;
 }
