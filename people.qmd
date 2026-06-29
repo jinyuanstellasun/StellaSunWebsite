@@ -41,8 +41,6 @@ format:
     link-external-newwindow: true
 ---
 
-# People
-
 ## Faculty
 
 :::{#faculty}
